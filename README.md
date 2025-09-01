@@ -80,5 +80,6 @@ If you find this project useful, consider supporting me on **Buy Me a Coffee**:
 
 
 ## 📄 License
+2025 © Huỳnh Nhân Quốc - Founder of [Kit Module](https://kitmodule.com) 
 
-MIT License © Huỳnh Nhân Quốc
+Released under the [MIT License](https://github.com/huynhnhanquoc/kitfile/blob/master/LICENSE)
