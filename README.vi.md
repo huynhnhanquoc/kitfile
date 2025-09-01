@@ -84,5 +84,7 @@ Nếu bạn thấy gói này hữu ích, hãy cân nhắc **hỗ trợ tôi trê
 
 ## 📄 Giấy phép
 
-MIT License © Huỳnh Nhân Quốc
+2025 © Huỳnh Nhân Quốc - Nhà sáng lập [Kit Module](https://kitmodule.com)  
+
+Phát hành theo [Giấy phép MIT](https://github.com/huynhnhanquoc/kitfile/blob/master/LICENSE)
 
