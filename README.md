@@ -14,7 +14,6 @@
 
 **Note:** This package only supports **local files** (no URLs).
 
----
 
 ## 🚀 Installation
 
@@ -22,9 +21,9 @@
 go get github.com/huynhnhanquoc/kitfile
 ````
 
----
 
 ## 💡 Quick Example
+You can try this example directly in **Go Playground**: [Run on Go Playground](https://go.dev/play/)
 
 ```go
 package main
@@ -47,7 +46,6 @@ func main() {
 }
 ```
 
----
 
 ## 📚 API Overview
 
@@ -66,7 +64,6 @@ func main() {
 | `AddToName(suffix string) *File`        | Add a suffix before the file extension               |
 | `RemoveFromName(suffix string) *File`   | Remove a suffix before the file extension if present |
 
----
 
 ## 👤 Author
 
@@ -74,7 +71,6 @@ func main() {
 
 GitHub: [github.com/huynhnhanquoc](https://github.com/huynhnhanquoc)
 
----
 
 ## ☕ Support Me
 
@@ -82,7 +78,6 @@ If you find this project useful, consider supporting me on **Buy Me a Coffee**:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ff813f)](https://www.buymeacoffee.com/huynhnhanquoc)
 
----
 
 ## 📄 License
 

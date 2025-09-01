@@ -14,7 +14,6 @@
 
 **Lưu ý:** Gói này chỉ hỗ trợ **file local** (không hỗ trợ URL).
 
----
 
 ## 🚀 Cài đặt
 
@@ -22,7 +21,6 @@
 go get github.com/huynhnhanquoc/kitfile
 ````
 
----
 
 ## 💡 Ví dụ nhanh
 
@@ -51,7 +49,6 @@ func main() {
 
 **Lưu ý:** Trên Go Playground, các hàm thao tác với file hệ thống như `Exist()` hoặc `Abs()` sẽ không hoạt động, nhưng các thao tác xử lý tên và path (`PrependPath`, `RemovePrefixPath`, `AddToName`, `RemoveFromName`) vẫn chạy được.
 
----
 
 ## 📚 Tổng Quan API
 
@@ -70,7 +67,6 @@ func main() {
 | `AddToName(suffix string) *File`        | Thêm hậu tố trước phần mở rộng của tên file |
 | `RemoveFromName(suffix string) *File`   | Xóa hậu tố trước phần mở rộng nếu có        |
 
----
 
 ## 👤 Tác giả
 
@@ -78,7 +74,6 @@ func main() {
 
 GitHub: [github.com/huynhnhanquoc](https://github.com/huynhnhanquoc)
 
----
 
 ## ☕ Hỗ trợ tôi
 
@@ -86,7 +81,6 @@ Nếu bạn thấy gói này hữu ích, hãy cân nhắc **hỗ trợ tôi trê
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ff813f)](https://www.buymeacoffee.com/huynhnhanquoc)
 
----
 
 ## 📄 Giấy phép
 
